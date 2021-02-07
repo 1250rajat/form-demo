@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "fname": "Rajat",
+      "mname": "Sukumar",
+      "lname": "Madhale",
+      "id": 1
+    },
+    {
+      "fname": "Akshay",
+      "mname": "S",
+      "lname": "Jangam",
+      "id": 2
+    }
+  ]
+}
